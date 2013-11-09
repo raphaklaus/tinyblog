@@ -17,6 +17,7 @@ CSS runs over the SASS.
 Tiny 'n' Powerful
 ================
 HTML5 and CSS3 are the basis of Tiny Blog, and both can produce great transactions effects.
+Responsive design core. It means that every Tiny Blog will be pretty cool in any device, like Smartphones, Tablets, and PC's.
 
 Social integration
 ==================
