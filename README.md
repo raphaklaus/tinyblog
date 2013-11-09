@@ -8,9 +8,6 @@ About
 
 A Blog engine that provides simple and intuitive way to create and maintain a blog.
 
-Easy 
-
-
 Keep it clean
 =============
 
